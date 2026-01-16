@@ -3,7 +3,7 @@
 
 This repository contains **Terraform configurations** for provisioning and managing **AWS infrastructure** using Infrastructure as Code (IaC).
 
----
+
 
 ##  Tech Stack
 
@@ -12,7 +12,7 @@ This repository contains **Terraform configurations** for provisioning and manag
 * AWS CLI
 * Git & GitHub
 
----
+
 
 ##  Contents
 
@@ -23,7 +23,7 @@ This repository contains **Terraform configurations** for provisioning and manag
 * Terraform variables, outputs, and data sources
 * Remote backend configuration
 
----
+
 
 ##  Usage
 
@@ -35,7 +35,7 @@ terraform plan
 terraform apply
 ```
 
----
+
 
 ##  Purpose
 
@@ -43,7 +43,7 @@ terraform apply
 * Practice AWS infrastructure automation
 * Implement reusable and modular Terraform code
 
----
+
 
 ##  Author
 
