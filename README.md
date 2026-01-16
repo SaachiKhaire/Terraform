@@ -5,7 +5,7 @@ This repository contains **Terraform configurations** for provisioning and manag
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 * Terraform
 * AWS (EC2, VPC, S3, Security Groups)
@@ -14,7 +14,7 @@ This repository contains **Terraform configurations** for provisioning and manag
 
 ---
 
-## 📂 Contents
+##  Contents
 
 * AWS EC2 provisioning
 * VPC and networking setup
@@ -25,7 +25,7 @@ This repository contains **Terraform configurations** for provisioning and manag
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ```bash
 git clone https://github.com/SaachiKhaire/terraform.git
@@ -37,7 +37,7 @@ terraform apply
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 * Learn Terraform fundamentals
 * Practice AWS infrastructure automation
@@ -45,7 +45,7 @@ terraform apply
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Saachi Khaire**
 
