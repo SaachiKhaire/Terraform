@@ -8,7 +8,7 @@ This repository contains **Terraform configurations** for provisioning and manag
 ##  Tech Stack
 
 * Terraform
-* AWS (EC2, VPC, S3, Security Groups)
+* AWS (EC2, VPC, S3)
 * AWS CLI
 * Git & GitHub
 
